@@ -1,0 +1,5 @@
+*.uni
+*.vdb
+*.DS_Store
+output/*.png
+bomb.blend1
